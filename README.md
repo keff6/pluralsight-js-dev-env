@@ -1,30 +1,37 @@
 # Javascript Development Environment
 This project consist on a Javascript Development Environment set up using the following tools:
 
-## Package Management
+### Package Management
   * npm
   
-## Web Server
+### Web Server
   * express
 
-## Bundling
+### Bundling
   * webpack
 
-## Automation
+### Automation
   * npm scripts
 
-## Transpiling
+### Transpiling
   * babel
 
-## Linting
+### Linting
   * eslint
 
-## Testing
+### Testing
   * Mocha - Chai - JSDOM
 
-## Continous Integration
+### Continous Integration
   * Appveyor
   
-## Mock Data
+### Mock Data
   * JSON Schema - JSON Schema Faker
 
+## Installation
+* git clone <repository-url> this repository
+* change into the new directory
+* npm install
+
+## Run
+* npm start
